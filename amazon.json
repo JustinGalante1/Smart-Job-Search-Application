@@ -1,9 +1,0 @@
-{
-	"company": "Amazon",
-	"problems": 
-	[
-		{"name":"Two Sum", "freq":3},
-		{"name":"Number of Islands", "freq":2},
-		{"name":"Three Sum", "freq":5}
-	]
-}
